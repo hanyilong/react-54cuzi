@@ -1,0 +1,20 @@
+{
+  "name": "zsw5cw--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react-dom": "17.0.2",
+    "insert-css": "2.0.0",
+    "react": "17.0.2",
+    "@antv/x6": "1.28.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
